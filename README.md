@@ -3,7 +3,7 @@ Bot Telegram with ChatGPT engine GPT-3
 
 
 Step1: Prepare Bot Telegram API - 
-Create account telegram , create new bot telegram throw @botfather 
+Create account telegram , create new bot telegram with @botfather 
 Tutorial link: 
 https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/
 
